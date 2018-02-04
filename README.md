@@ -1,6 +1,6 @@
 # local-restaurant-website
 Website for a Local Restaurant
 
-![Image 1](local-restaurant-website/img1.jpeg)
-![Image 2](local-restaurant-website/img2.jpeg)
-![Image 3](local-restaurant-website/img3.jpeg)
+![Image 1](https://raw.githubusercontent.com/pkiranmai/local-restaurant-website/master/img1.jpeg)
+![Image 2](https://raw.githubusercontent.com/pkiranmai/local-restaurant-website/master/img2.jpeg)
+![Image 3](https://raw.githubusercontent.com/pkiranmai/local-restaurant-website/master/img3.jpeg)
