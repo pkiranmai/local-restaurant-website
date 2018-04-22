@@ -70,9 +70,9 @@ nav .nav-bar a.active {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position-x: -550px;
-  background-position-y: 70px;
-  padding-right: -300px;
+  //background-position-x: -550px;
+  //background-position-y: 70px;
+  //padding-right: -300px;
   overflow: hidden;
   position:relative;
 
